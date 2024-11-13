@@ -1,0 +1,64 @@
+# Ignore arquivos de sistema do Mac e Windows
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de sistema específicos do editor
+.vscode/
+.idea/
+*.swp
+
+# Ignore dependências de bibliotecas locais
+node_modules/
+bower_components/
+*.lock
+
+# Ignorar arquivos de build para Python e outras linguagens
+dist/
+build/
+*.egg-info/
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de credenciais e configurações sensíveis
+.env
+*.env.*
+credentials.json
+firebase.json
+
+# Arquivos de configuração de compilação Arduino
+*.bin
+*.elf
+*.hex
+
+# Logs e relatórios de depuração
+*.log
+*.out
+*.log.*
+
+# Ignorar configuração do sistema do ESP32 (se aplicável)
+sdkconfig
+sdkconfig.old
+components/
+
+# Ignorar bibliotecas externas para ESP32/Arduino
+libraries/
+
+# Configurações e metadados do Git
+.git/
+
+# Ignorar arquivos temporários ou caches do Docker, se aplicável
+docker-compose.override.yml
+.dockerignore
+
+# Ignore arquivos de sistema específicos do Windows e Linux
+*.exe
+*.dll
+*.so
+
+# Excluir arquivos de documentação gerados automaticamente
+docs/build/
