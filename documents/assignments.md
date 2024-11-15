@@ -101,6 +101,9 @@ See you soon.
 - Complete Unit 3: “Generative AI Agents”, which is:
   - [Optional] Listen to the summary [podcast episode](https://youtu.be/H4gZd4BCrDQ) for this unit (created by [NotebookLM](https://notebooklm.google/)).
   - Read the [“Generative AI Agents” whitepaper](https://www.kaggle.com/whitepaper-agents).
+
+    Humans are fantastic at messy pattern recognition tasks. However, they often rely on tools - like books, Google Search, or a calculator - to supplement their prior knowledge before arriving at a conclusion. Just like humans, Generative AI models can be trained to use tools to access real-time information or suggest a real-world action. For example, a model can leverage a database retrieval tool to access specific information, like a customer's purchase history, so it can generate tailored shopping recommendations. Alternatively, based on a user's query, a model can make various API calls to send an email response to a colleague or complete a financial transaction on your behalf. To do so, the model must not only have access to a set of external tools, it needs the ability to plan and execute any task in a self- directed fashion. This combination of reasoning, logic, and access to external information that are all connected to a Generative AI model invokes the concept of an agent, or a program that extends beyond the standalone capabilities of a Generative AI model. This whitepaper dives into all these and associated aspects in more detail.
+
   - Complete these code labs on Kaggle:
     - [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling
     - [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph
@@ -123,6 +126,103 @@ The code labs cover how to connect LLMs to existing systems and to the real worl
 
 Happy learning and see you tomorrow.
 
+### Third Livestream
+
+Today’s livestream starts at 2PM PST/ 5PM EST/ 10:00 PM UTC. [Click here to join](https://www.youtube.com/live/HQUtMWoTAD4?si=4wCmQXmNStFjjvrg)!
+
+Paige Bailey will be joined by specialists to discuss Generative AI Agents. It will be recorded in case you’re unable to attend.
+
+For the complete list of scheduled livestreams and past recordings, check out this [YouTube playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es).
+
+See you soon.
+
+### Kaggle Badge Claim
+
+At the end of the week, you're eligible to earn a Kaggle Badge on your [Kaggle Profile](https://www.kaggle.com/me) for participating in this course! The badge is a fantastic way to stand out and demonstrate your growing expertise in generative AI.
+
+![alt text](../images/kaggle_badge.png)
+
+How to claim your badge:
+
+Complete all codelabs for this course.
+At the end of the week we will automatically award the badge to anyone who has done this on Kaggle. We will automatically check for anyone who has pressed “Copy & Edit” on the codelabs, there is no need to ‘submit’ anything or to save your work.
+If you had any trouble using Kaggle to complete the codelabs or don’t see the badge on your profile by Monday, Nov 18th you can [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdbC-GufVwFC5leQ72_N_dnq_hKrCUHRqHM1JMnf2XPrls9hw/viewform?resourcekey=0-HWiBm8ULYS9iFDZ6Ir0ZGQ) and we will make sure you receive it. We ask for your Kaggle username and links or descriptions of your completed code lab assignments.
+Deadline for submission of the form is Friday, Nov 22 (one week after the event).
+
+Because the course is primarily self-paced and includes a lot of reading, podcast, and livestream episodes, we can't certify completion of every assignment and need to rely heavily on code lab participation. That said, we hope you take full advantage of all the learning resources – they'll boost your educational experience significantly.
+
+If there are any issues with your badge redemption, please contact <jennilynf@xwf.kaggle.com>.
+
+Happy learning!
+
 ## 2024-11-14
 
+🎒 Today’s Assignment
+
+Complete Unit 4: “Domain-Specific LLMs”, which is:
+
+- [Optional] Listen to the summary [podcast episode](https://youtu.be/b1a4ZOQ8XdI) for this unit (created by NotebookLM).
+- Read the [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms).
+
+  Large language models (LLMs) have emerged as powerful tools for tackling complex challenges in numerous domains. While early iterations focused on general-purpose tasks, recent developments have highlighted the potential of fine-tuning LLMs to address specific problems within specialized fields. This whitepaper explores these concepts in two distinct domains: cybersecurity and medicine. Each showcases the unique ability of LLMs to enhance existing workflows and unlock new possibilities.
+  Cybersecurity presents a number of unique challenges for LLMs, including a scarcity of publicly available data, a wide diversity of highly technical concepts, and information about threats that change on a daily basis. Additionally, sensitive use cases, like malware analysis, necessitate specific considerations for model development. We address these challenges by focusing on cybersecurity-specific content and tasks, pairing security-focused language models with a suite of supporting techniques to offer improved performance for vital tasks like threat identification and risk analysis.
+  In the field of medicine, LLMs face a different set of obstacles, such as the vast and ever- evolving nature of medical knowledge and the need to apply said knowledge in a context- dependent manner that makes accurate diagnosis and treatment a continual challenge.
+  LLMs like Med-PaLM, customized for medical applications, demonstrate the ability to answer complex medical questions and provide insightful interpretations of medical data, showing potential for supporting both clinicians and patients. Through the lens of these two distinct domains, in this whitepaper we will explore the challenges and opportunities presented by specialized data, technical language, and sensitive use cases. By examining the unique paths taken by SecLM and Med-PaLM, we provide insights into the potential of LLMs to revolutionize various areas of expertise.
+
+- Complete these code labs on Kaggle:
+  - [Use](https://www.kaggle.com/code/markishere/day-4-google-search-grounding) Google Search data in generation
+  - [Tune](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model) a Gemini model for a custom task
+
+💡 What You’ll Learn
+
+In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
+
+In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
+
+📋 Reminders and Announcements
+
+- Here is the [recording from Day 3’s livestream](https://www.youtube.com/watch?v=HQUtMWoTAD4&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4).
+- The next livestream with Paige Bailey is tomorrow at 2pm PST/ 5pm EST/ 10pm UTC. [Click here to join](https://www.youtube.com/watch?v=odvuLMJWUSU&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4)! Livestream guests: Scott Coull, Antonio Gulli, Anant Nawalgaria, Christopher Semturs, and Umesh Shankar.
+- Find a [complete list of scheduled livestreams and past recordings here](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es).
+- Be sure to ask all your questions about the podcast, readings, and code lab on [Discord](https://discord.gg/gNrC9Xut).
+
+Happy learning and see you tomorrow.
+
+### Forth Livestream
+
+Today’s livestream starts at 2PM PST/ 5PM EST/ 10:00 PM UTC. [Click here to join](https://www.youtube.com/watch?v=odvuLMJWUSU&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4)!
+
+Paige Bailey will be joined by Scott Coull, Antonio Gulli, Anant Nawalgaria, Christopher Semturs, and Umesh Shankar to discuss domain specific models. It will be recorded in case you’re unable to attend.
+
+For the complete list of scheduled livestreams and past recordings, check out this [YouTube playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es).
+
+See you soon.
+
 ## 2024-11-15
+
+🎒 Final Assignment
+
+Complete Unit 5: “MLOps for Generative AI”, which is:
+
+- [Optional] Listen to the summary [podcast episode](https://youtu.be/k9S6IhiUUj4) for this unit (created by [NotebookLM](https://notebooklm.google/)).
+- Read the [“MLOps for Generative AI” whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops).
+
+  The emergence of foundation models and generative AI (gen AI) has introduced a new era for building AI systems. Selecting the right model from a diverse range of architectures and sizes, curating data, engineering optimal prompts, tuning models for specific tasks, grounding model outputs in real-world data, optimizing hardware - these are just a few of the novel challenges that large models introduce.
+  This whitepaper delves into the fundamental tenets of MLOps and the necessary adaptations required for the domain of gen AI and Foundation Models. We also examine the diverse range of Vertex AI products, specifically tailored to address the unique demands of foundation models and gen AI-based applications. Through this exploration we uncover how Vertex AI, with its solid foundations of AI infrastructure and MLOps tools, expands its capabilities to provide a comprehensive MLOps platform for gen AI.
+  
+- No code lab for today! We will do a code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](https://goo.gle/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
+
+💡 What You’ll Learn
+
+Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+
+📋 Reminders and Announcements
+
+- Here is the [recording from Day 4’s livestream](https://www.youtube.com/watch?v=odvuLMJWUSU&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=4).
+- 5th and final livestream is tomorrow at 2pm PST/ 5pm EST/ 10pm UTC hosted by Paige Bailey with special guests: Advait Bopardikar, Sokratis Kartakis, Gabriela Hernandez Larios, Veer Muchandi, Anant Nawalgaria, Elia Secchi, and  Olivia Wiles.
+- Find a [complete list of scheduled livestreams and past recordings here](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es).
+- Be sure to ask all your questions in [Discord](https://discord.gg/gNrC9Xut). You'll get Kaggle swag if your question is chosen for discussion during the livestream!
+
+Happy learning and see you tomorrow.
+
+### Fifth Livestream
