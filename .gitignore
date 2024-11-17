@@ -26,7 +26,6 @@ __pycache__/
 
 # Arquivos de credenciais e configurações sensíveis
 .env
-*.env.*
 credentials.json
 firebase.json
 

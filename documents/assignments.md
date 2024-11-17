@@ -226,3 +226,23 @@ Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's
 Happy learning and see you tomorrow.
 
 ### Fifth Livestream
+
+## Finishing the Intensive Course
+
+Congrats on finishing the 5-day Generative AI Intensive course! As we wrap things up, this is our final round up of reminders and announcements.
+
+### 📋 Reminders and Announcements
+
+📚 **Check out this bonus assignment**: There’s more! This [bonus notebook](https://www.kaggle.com/code/markishere/bonus-day-extra-api-features-to-try/) walks you through a few more things you can do with the Gemini API that weren't covered during the course. This material doesn't pair with the whitepapers or podcast, but covers some extra capabilities you might find useful when building Gemini API powered apps.
+
+⭐ **Confirm your Kaggle badge**:  You're eligible to earn a badge on your [Kaggle Profile](https://www.kaggle.com/me) for participating in this course! If you pressed “Copy & Edit” on all assigned codelabs, we will automatically award the badge on your profile. If you have any trouble using Kaggle to complete the codelabs or don’t see the badge on your profile by Monday, Nov 18th, you can fill out this form and we will make sure you receive it. Deadline for submission of the form is Friday, Nov 22 (one week from today).
+
+👀 **Look out for the Kaggle Learn Guide**: All of the course content will be aggregated and made publicly available next week as a handy Kaggle Learn Guide. We’ll share it with you as soon as it's ready. In the meantime, [all of the livestream recordings can be found here](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es).
+
+🎟️ **Save the date for Cloud Next**: Google Cloud is offering this community a special discount to attend Next ’25, April 9–11, in Las Vegas, for $799 USD. Let Google know you’re interested here and they’ll send you a discount code as soon as registration opens.
+
+📢 **Share your feedback**: Please [fill out this quick feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfWPBqK10bVS81p6_BTVwlgMRCcXQcxbJUgrXa_btKBxq4pHw/viewform?usp=preview) to let us know more about your experience. It’ll help us improve the program for future participants. Your feedback is completely anonymous and should only take a few minutes.
+
+And with that, thank you very much for joining us this week. We enjoyed connecting with you all and wish you nothing but the best as you continue to grow as an AI engineer.
+
+Cheers,

@@ -21,29 +21,29 @@ We're going live everyday on Kaggle's YouTube channel, where the authors and cou
 
 1. What are the course prerequisites? Who is this course for?
 
-This course is for anyone looking to more deeply understand the fundamentals of Generative AI. There are no firm prerequisites but knowing a bit of Python will help you get the most out of the codelabs and some experience with basic Generative AI concepts like prompting will help accelerate reading comprehension.
+    This course is for anyone looking to more deeply understand the fundamentals of Generative AI. There are no firm prerequisites but knowing a bit of Python will help you get the most out of the codelabs and some experience with basic Generative AI concepts like prompting will help accelerate reading comprehension.
 
-If you have time before the course begins and need a basic refresher, we recommend taking our short [Intro to Programming (in Python) course](https://www.kaggle.com/learn/intro-to-programming), [Kaggle's Python course](https://www.kaggle.com/learn/python) and the [Introduction to Generative AI micro-course from Google Cloud](https://www.cloudskillsboost.google/course_templates/536).
+    If you have time before the course begins and need a basic refresher, we recommend taking our short [Intro to Programming (in Python) course](https://www.kaggle.com/learn/intro-to-programming), [Kaggle's Python course](https://www.kaggle.com/learn/python) and the [Introduction to Generative AI micro-course from Google Cloud](https://www.cloudskillsboost.google/course_templates/536).
 
 2. What is the time commitments for the program?
 
-Assignments should take roughly 1-2 hours/day to complete and the live stream will be about 45-60 minutes long.
+    Assignments should take roughly 1-2 hours/day to complete and the live stream will be about 45-60 minutes long.
 
 3. Will the livestreams be recorded?
 
-Yes! Registrants will receive the recordings afterward in case they can't make it live.
+    Yes! Registrants will receive the recordings afterward in case they can't make it live.
 
 4. How much is the program?
 
-No cost – all you need is a [Kaggle](https://www.kaggle.com/) account and compatible [AI Studio account](https://aistudio.google.com/).
+    No cost – all you need is a [Kaggle](https://www.kaggle.com/) account and compatible [AI Studio account](https://aistudio.google.com/).
 
 5. Who contributed to this course?
 
-This was a large team effort from a group of Google ML researchers and engineers including (in alphabetical order by last name) Christos Aniftos, Shekoofeh Azizi, Paige Bailley, Mohammadamin Barekatain, Lee Boonstra, Scott Coull, Omid Fatemieh, Josh Gordon, Wieland Holfelder, Logan Kilpatrick, Gabriela Hernández Larios, Yaniv Leviathan, Alan Li, Daniel J. Mankowitz, Patrick Marlow, Massimo Mascaro, Mark McDonald, Iftekhar Naim, Anant Nawalgaria, Yan Qiao, Xiaoqi Ren, Elia Secchi, Christopher Semturs, Aliaksei Severyn, Umesh Shankar, Michael Styer, Julia Wiesinger, and many others.
+    This was a large team effort from a group of Google ML researchers and engineers including (in alphabetical order by last name) Christos Aniftos, Shekoofeh Azizi, Paige Bailley, Mohammadamin Barekatain, Lee Boonstra, Scott Coull, Omid Fatemieh, Josh Gordon, Wieland Holfelder, Logan Kilpatrick, Gabriela Hernández Larios, Yaniv Leviathan, Alan Li, Daniel J. Mankowitz, Patrick Marlow, Massimo Mascaro, Mark McDonald, Iftekhar Naim, Anant Nawalgaria, Yan Qiao, Xiaoqi Ren, Elia Secchi, Christopher Semturs, Aliaksei Severyn, Umesh Shankar, Michael Styer, Julia Wiesinger, and many others.
 
 6. Will the course award a Kaggle certificate, medals, or points?
 
-No, but you’ll receive [a badge on your Kaggle profile](https://www.kaggle.com/discussions/general/536046) upon course completion!
+    No, but you’ll receive [a badge on your Kaggle profile](https://www.kaggle.com/discussions/general/536046) upon course completion!
 
 ### What's being covered?
 
